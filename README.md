@@ -2,7 +2,6 @@
 
 ## Links:
 - Email: alexandrteluhin@gmail.com
-- Vk: https://vk.com/alexteluhin
 - Telegram: https://t.me/R1len
 ## Languages, Tools and skills:
 - Python, Django,  FastAPI, asyncio, httpx, sqlalchemy;
